@@ -1,38 +1,63 @@
-<h2 align="left">Hi 👋! My name is Sandeep Sai Kumar K I and I'm a FrontEnd Developer </h2>
-
-###
+<h2 align="center">Hi 👋! My name is Sandeep Sai Kumar K I and I'm a FrontEnd Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-###
+<br/>
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jrsandy26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats graph" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jrsandy26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
 </div>
 
-###
+<br/>
 
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d38ffb87-bdae-4f7e-8cbb-3ec162b1c551" width="300" alt="Profile Animation Preview" />
 </div>
 
-###
+<br/>
 
-###
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="Adobe XD" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" alt="Illustrator" />
+  <img width="12"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" alt="Excel" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+</div>
+
+<br/>
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<div align="center">
+  <a href="mailto:sandeepsai1915@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sandeepsai26" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn badge" />
+  </a>
+</div>
