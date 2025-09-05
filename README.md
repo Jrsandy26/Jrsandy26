@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Sandeep Sai Kumar K I and I'm a FrontEnd Developer</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;FrontEnd+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
